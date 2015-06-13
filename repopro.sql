@@ -22,7 +22,10 @@
 /* create soaizer_db */
 
 /* create database named soaizer_db */ 
-CREATE DATABASE soaizer_db;
+
+/* SET PASSWORD FOR 'root'@'localhost' = PASSWORD('root'); */
+
+/* CREATE DATABASE soaizer_db; */
 
 /* select the created database */
 USE soaizer_db;
